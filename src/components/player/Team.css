@@ -1,0 +1,11 @@
+.card_img {
+  object-fit: cover;
+  max-width: 300px;
+  height: 300px;
+}
+
+.card-body {
+  display: flex;
+  flex: 1;
+  width: 300px;
+}
